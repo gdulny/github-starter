@@ -1,2 +1,2 @@
 # github-starter
-Repository for hello project.
+Repository for hello world project.
