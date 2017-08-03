@@ -3,7 +3,6 @@ Repository for hello world project.
 
 modified in branch readme-edits
 modified by other user
-don't commit this change
 
-
+add option --set-upstream when pushing new branch
 created new branch feature-branches
